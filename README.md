@@ -1,5 +1,9 @@
 # Space journey
 
+## Download the app
+
+To the download the app, visit the Releases tab.
+
 ## Backstory 
 Since ancient times, mankind has dreamed of knowing what is there in the sky. There were always people who looked beyond their time. Many of them were looking for different ways to conquer an unknown and boundless cosmos. And it happened: April 12, 1961 the first man went into space. The length of the route was 40,868 km. For those times it was a huge distance. Nowadays, sending a person space is not something impossible or unattainable. But that first flight marked the beginning of the space age - the era of space exploration.
 
