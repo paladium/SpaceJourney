@@ -1,0 +1,10 @@
+<Space_Objects>
+  <Object type="Earth_Like">
+    <transform.x>1.700167</transform.x>
+    <transform.y>0.1524288</transform.y>
+  </Object>
+  <Object type="Earth">
+    <transform.x>-3.725293</transform.x>
+    <transform.y>0.6783919</transform.y>
+  </Object>
+</Space_Objects>

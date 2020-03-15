@@ -1,0 +1,10 @@
+<Space_Objects>
+  <Object type="Earth">
+    <transform.x>3.899498</transform.x>
+    <transform.y>1.840871</transform.y>
+  </Object>
+  <Object type="Mars">
+    <transform.x>-3.529313</transform.x>
+    <transform.y>-2.244556</transform.y>
+  </Object>
+</Space_Objects>
